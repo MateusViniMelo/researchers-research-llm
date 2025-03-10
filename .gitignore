@@ -1,0 +1,36 @@
+# ⛔ Ignorar arquivos de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ⛔ Ignorar dependências instaladas localmente
+venv/
+.env
+*.egg-info/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ⛔ Ignorar arquivos de log e debug
+*.log
+debug.log
+
+# ⛔ Ignorar arquivos de índice do FAISS
+faiss_index/
+
+# ⛔ Ignorar artigos baixados e processados
+artigos/
+*.pdf
+*.txt
+
+# ⛔ Ignorar configurações do VS Code e editores
+.vscode/
+.idea/
+*.sublime-workspace
+
+# ⛔ Ignorar arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# ⛔ Ignorar credenciais do Ollama
+.ollama/
