@@ -61,7 +61,3 @@ HUGGINGFACEHUB_API_TOKEN=sua-chave-aqui
 ├── .env.example  # Exemplo do arquivo de variáveis de ambiente
 ├── README.md  # Documentação do projeto
 ```
-
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Sinta-se à vontade para usá-lo e modificá-lo! 🚀
