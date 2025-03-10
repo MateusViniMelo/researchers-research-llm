@@ -1,0 +1,5 @@
+scholarly
+transformers
+torch
+flask
+python-dotenv

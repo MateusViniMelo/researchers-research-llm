@@ -15,14 +15,6 @@ pip-delete-this-directory.txt
 *.log
 debug.log
 
-# ⛔ Ignorar arquivos de índice do FAISS
-faiss_index/
-
-# ⛔ Ignorar artigos baixados e processados
-artigos/
-*.pdf
-*.txt
-
 # ⛔ Ignorar configurações do VS Code e editores
 .vscode/
 .idea/
